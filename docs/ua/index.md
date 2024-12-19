@@ -13,16 +13,10 @@ actions:
     link: ./intro/
     type: primary
 
-footer: 'ECL 2.0 Licensed | Copyright © [2024] [Serhii Lytvynenko] |'
+footer: 'ECL 2.0 Licensed | Copyright © [2024] [Yana Papish] |'
 ---
 
-**Виконали:**
-
-_Студент 2-го курсу, групи ІМ-31_ <span padding-right:5em></span>Литвиненко Сергій Андрійович<span padding-left:5em></span> [Telegram](https://t.me/gjdtkjd)
-
-_Студентка 2-го курсу, групи ІМ-31_ <span padding-right:5em></span>Папіш Яна Олександрівна<span padding-left:5em></span> [Telegram](https://t.me/ypapishh)
-
-_Студент 2-го курсу, групи ІМ-31_ <span padding-right:5em></span>Максимовський Назар Русланович<span padding-left:5em></span> [Telegram](https://t.me/gothicenemy)
+**Виконав:**
 
 _Студент 2-го курсу, групи ІМ-31_ <span padding-right:5em></span>Красуля Олександр Олександрович<span padding-left:5em></span> [Telegram](https://t.me/glov1ee)
 
